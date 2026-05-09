@@ -1,17 +1,44 @@
-# fahad_todo_list_last_project
+# Flutter To-Do List App
 
-A new Flutter project.
+A clean and simple Flutter to-do list application that helps you stay organized. This app allows you to add tasks, mark them as complete, and delete them, with all data persisting locally on your device.
+
+## Features
+
+- **Splash Screen**: A professional entry screen on app startup.
+- **Add Tasks**: Quickly add new items to your list.
+- **Mark as Complete**: Toggle tasks as finished with a visual strike-through effect.
+- **Delete Tasks**: Remove tasks you no longer need.
+- **Persistent Storage**: Uses `SharedPreferences` to ensure your tasks are saved even after closing the app.
+- **Modern UI**: Built with Material Design 3 and a deep purple theme.
+
+## Screenshots
+
+![home screen](screenshots/home_screen.jpg)
+![List view_task screen](screenshots/List_view_task_screen.jpg)
+![delete task screen](screenshots/delete_task_screen.jpg)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK: `^3.0.0`
+- Dart SDK: `^3.0.0`
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository**:
+   bash
+   git clone 'https://github.com/ahmedshafifahad123/to_do_list_app_with_splascreen.git'
+   
+2**Run the app**:
+   bash
+   flutter run
+   
+## Dependencies
+
+- `shared_preferences`: For local data persistence.
+- `cupertino_icons`: For iOS-style icons.
+
+## License
+
+This project is open source.
