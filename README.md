@@ -36,9 +36,13 @@ A clean and simple Flutter to-do list application that helps you stay organized.
    
 ## Dependencies
 
-- `shared_preferences`: For local data persistence.
-- `cupertino_icons`: For iOS-style icons.
+- shared_preferences`: For local data persistence.
+- cupertino_icons`: For iOS-style icons.
 
 ## License
 
 This project is open source.
+
+## Video
+
+link "https://github.com/user-attachments/assets/65199df3-d0b9-4586-974f-7e8ad1e01d47"
