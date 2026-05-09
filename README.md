@@ -30,9 +30,12 @@ A clean and simple Flutter to-do list application that helps you stay organized.
    bash
    git clone 'https://github.com/ahmedshafifahad123/to_do_list_app_with_splascreen.git'
    
-2**Run the app**:
+2. **Run the app**:
    bash
    flutter run
+
+3. **Video**
+   link "https://github.com/user-attachments/assets/65199df3-d0b9-4586-974f-7e8ad1e01d47"
    
 ## Dependencies
 
@@ -43,6 +46,3 @@ A clean and simple Flutter to-do list application that helps you stay organized.
 
 This project is open source.
 
-## Video
-
-link "https://github.com/user-attachments/assets/65199df3-d0b9-4586-974f-7e8ad1e01d47"
