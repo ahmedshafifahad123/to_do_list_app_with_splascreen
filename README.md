@@ -27,8 +27,9 @@ A clean and simple Flutter to-do list application that helps you stay organized.
 ### Installation
 
 1. **Clone the repository**:
+   GitHub https://github.com/ahmedshafifahad123/to_do_list_app_with_splascreen.git
 
-   link "https://github.com/user-attachments/assets/65199df3-d0b9-4586-974f-7e8ad1e01d47"
+   video link https://github.com/user-attachments/assets/65199df3-d0b9-4586-974f-7e8ad1e01d47
    
 ## Dependencies
 
